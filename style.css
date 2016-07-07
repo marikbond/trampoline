@@ -307,8 +307,6 @@ header img {
     background-color: #ff8900;
 }
 
-
-
 #slide1:checked ~ .pictures {margin-left: 0;}
 #slide2:checked ~ .pictures {margin-left: -815px;}
 #slide3:checked ~ .pictures {margin-left: -1630px;}
